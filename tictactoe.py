@@ -1,4 +1,4 @@
-# Marino Tselani   May 2022.
+# Marino Tselani   June 2022.
 
 board = [' ', ' ', ' ',   # The dementions of the tictactoe board, filled without any player moves.
          ' ', ' ', ' ',
